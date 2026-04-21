@@ -1,0 +1,6 @@
+[safe]
+	directory = /var/db/repos/guru
+	directory = /var/db/repos/zGentoo
+	directory = /var/db/repos/steam-overlay
+	directory = /var/db/repos/hyproverlay
+	directory = /var/db/repos/supertux88

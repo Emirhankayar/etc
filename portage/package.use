@@ -1,0 +1,302 @@
+net-im/discord appindicator
+dev-lang/zig llvm_slot_19
+# required by app-misc/ani-cli-4.10::guru
+# required by ani-cli (argument)
+>=net-misc/aria2-1.37.0 adns
+# required by games-util/steam-launcher-1.0.0.85-r2::steam-overlay[video_cards_nvidia,vulkan]
+# required by @selected
+# required by @world (argument)
+>=media-libs/vulkan-loader-1.4.335.0 layers
+# required by x11-drivers/xf86-video-intel-2.99.917_p20230201::gentoo
+# required by x11-drivers/xf86-video-intel (argument)
+>=x11-libs/libdrm-2.4.131 video_cards_intel
+# required by dev-lang/typescript-5.9.3::gentoo
+# required by gnome-extra/gnome-weather-49.0::gentoo
+# required by gnome-weather (argument)
+>=net-libs/nodejs-24.11.1-r1 npm
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/mako-1.3.10 python_targets_python3_12
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/packaging-26.0 python_targets_python3_12
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/pyyaml-6.0.3 python_targets_python3_12
+# required by dev-python/pyyaml-6.0.3::gentoo
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/cython-3.2.4 python_targets_python3_12
+# required by dev-python/mako-1.3.10::gentoo
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/setuptools-81.0.0 python_targets_python3_12
+# required by dev-python/markupsafe-3.0.3::gentoo
+# required by dev-python/mako-1.3.10::gentoo
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/gpep517-19 python_targets_python3_12
+# required by dev-python/gpep517-19::gentoo
+# required by dev-python/markupsafe-3.0.3::gentoo
+# required by dev-python/mako-1.3.10::gentoo
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/installer-0.7.0 python_targets_python3_12
+# required by dev-python/packaging-26.0::gentoo
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/flit-core-3.12.0 python_targets_python3_12
+# required by dev-python/mako-1.3.10::gentoo
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/markupsafe-3.0.3 python_targets_python3_12
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/jaraco-functools-4.4.0 python_targets_python3_12
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/jaraco-text-4.2.0 python_targets_python3_12
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/more-itertools-10.8.0 python_targets_python3_12
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/platformdirs-4.9.2 python_targets_python3_12
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/wheel-0.46.3 python_targets_python3_12
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/setuptools-scm-9.2.2 python_targets_python3_12
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/trove-classifiers-2026.1.14.14 python_targets_python3_12
+# required by dev-python/jaraco-text-4.2.0::gentoo
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/jaraco-context-6.1.0 python_targets_python3_12
+# required by media-libs/libv4l-1.32.0::gentoo[utils,qt6]
+# required by media-video/obs-studio-32.1.0::gentoo[v4l]
+# required by @selected
+# required by @world (argument)
+# required by dev-python/setuptools-scm-10.0.5::gentoo[-test]
+# required by dev-python/setuptools-82.0.1::gentoo
+# required by dev-python/cython-3.2.4::gentoo
+# required by dev-python/lxml-6.0.2::gentoo
+# required by dev-util/itstool-2.0.7_p20250326::gentoo[python_single_target_python3_13]
+# required by dev-libs/appstream-1.0.6::gentoo
+# required by gui-libs/libadwaita-1.8.2::gentoo
+# required by x11-terms/ghostty-1.3.0-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/vcs-versioning-1.1.1 python_targets_python3_12
+# required by app-editors/neovim-0.12.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-lua/luv-1.52.1.0 lua_single_target_luajit
+
+# SCREENSHARING
+dev-qt/qtbase opengl egl eglfs gles2-only
+dev-qt/qtdeclarative opengl
+sys-apps/xdg-desktop-portal screencast
+
+# DISPLAYS NWG
+>=gui-libs/gtk-layer-shell-0.10.0 introspection
+dev-lang/zig llvm_slot_19
+# required by app-misc/ani-cli-4.10::guru
+# required by ani-cli (argument)
+>=net-misc/aria2-1.37.0 adns
+# required by games-util/steam-launcher-1.0.0.85-r2::steam-overlay[video_cards_nvidia,vulkan]
+# required by @selected
+# required by @world (argument)
+>=media-libs/vulkan-loader-1.4.335.0 layers
+# required by x11-drivers/xf86-video-intel-2.99.917_p20230201::gentoo
+# required by x11-drivers/xf86-video-intel (argument)
+>=x11-libs/libdrm-2.4.131 video_cards_intel
+# required by dev-lang/typescript-5.9.3::gentoo
+# required by gnome-extra/gnome-weather-49.0::gentoo
+# required by gnome-weather (argument)
+>=net-libs/nodejs-24.11.1-r1 npm
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/mako-1.3.10 python_targets_python3_12
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/packaging-26.0 python_targets_python3_12
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/pyyaml-6.0.3 python_targets_python3_12
+# required by dev-python/pyyaml-6.0.3::gentoo
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/cython-3.2.4 python_targets_python3_12
+# required by dev-python/mako-1.3.10::gentoo
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/setuptools-81.0.0 python_targets_python3_12
+# required by dev-python/markupsafe-3.0.3::gentoo
+# required by dev-python/mako-1.3.10::gentoo
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/gpep517-19 python_targets_python3_12
+# required by dev-python/gpep517-19::gentoo
+# required by dev-python/markupsafe-3.0.3::gentoo
+# required by dev-python/mako-1.3.10::gentoo
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/installer-0.7.0 python_targets_python3_12
+# required by dev-python/packaging-26.0::gentoo
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/flit-core-3.12.0 python_targets_python3_12
+# required by dev-python/mako-1.3.10::gentoo
+# required by media-libs/mesa-26.0.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/markupsafe-3.0.3 python_targets_python3_12
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/jaraco-functools-4.4.0 python_targets_python3_12
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/jaraco-text-4.2.0 python_targets_python3_12
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/more-itertools-10.8.0 python_targets_python3_12
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/platformdirs-4.9.2 python_targets_python3_12
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/wheel-0.46.3 python_targets_python3_12
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/setuptools-scm-9.2.2 python_targets_python3_12
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/trove-classifiers-2026.1.14.14 python_targets_python3_12
+# required by dev-python/jaraco-text-4.2.0::gentoo
+# required by dev-python/setuptools-81.0.0::gentoo
+# required by dev-libs/glib-2.84.4-r2::gentoo[introspection]
+# required by app-misc/fastfetch-2.59.0::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=dev-python/jaraco-context-6.1.0 python_targets_python3_12
+# required by media-libs/libv4l-1.32.0::gentoo[utils,qt6]
+# required by media-video/obs-studio-32.1.0::gentoo[v4l]
+# required by @selected
+# required by @world (argument)
+=dev-qt/qtbase-6.10.2 -gles2-only
+# required by dev-python/setuptools-scm-10.0.5::gentoo[-test]
+# required by dev-python/setuptools-82.0.1::gentoo
+# required by dev-python/cython-3.2.4::gentoo
+# required by dev-python/lxml-6.0.2::gentoo
+# required by dev-util/itstool-2.0.7_p20250326::gentoo[python_single_target_python3_13]
+# required by dev-libs/appstream-1.0.6::gentoo
+# required by gui-libs/libadwaita-1.8.2::gentoo
+# required by x11-terms/ghostty-1.3.0-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/vcs-versioning-1.1.1 python_targets_python3_12
+dev-lua/luv lua_single_target_luajit
+
+
+sys-power/asusctl llvm_slot_19
+
+media-video/pipewire sound-server pipewire-alsa lua_single_target_lua5-4
+media-video/wireplumber lua_single_target_lua5-4
+app-editors/neovim lua_single_target_luajit
+
+*/* CPU_FLAGS_X86: aes avx avx2 avx512_bf16 avx512_bitalg avx512_vbmi2 avx512_vnni avx512_vpopcntdq avx512bw avx512cd avx512dq avx512f avx512ifma avx512vbmi avx512vl bmi1 bmi2 f16c fma3 mmx mmxext pclmul popcnt rdrand sha sse sse2 sse3 sse4_1 sse4_2 sse4a ssse3 vpclmulqdq
+sys-kernel/installkernel dracut grub
+# required by dev-libs/libayatana-appindicator-0.5.94::gentoo
+# required by sys-power/asusctl-6.1.10::zGentoo[gui]
+# required by sys-power/asusctl (argument)
+>=dev-libs/libdbusmenu-16.04.0-r4 gtk3
+
+
+# app-emulation/dxvk ABI_X86: 64 32
+
+x11-drivers/nvidia-drivers powerd persistenced dist-kernel #abi_x86_32 powerd dist-kernel persistenced 
+# media-video/ffmpeg X alsa bzip2 dav1d drm dvd fontconfig gnutls gpl jpegxl lcms libass opengl pulseaudio sdl svg truetype vorbis vulkan webp x264 xml xvid zlib vpx opus openh264 vaapi vdpau libaom zimg mp3 fdk vaapi vdpau
+
+media-video/ffmpeg opus chromium nvenc lame
+
+
+net-wireless/wpa_supplicant -gui
+net-libs/nghttp2 PYTHON_SINGLE_TARGET: -python3_13 python3_12
+media-libs/mesa -llvm
+# required by x11-drivers/xf86-video-ati-22.0.0::gentoo
+# required by x11-base/xorg-drivers-21.1-r2::gentoo[-video_cards_radeon,video_cards_radeonsi]
+# required by x11-base/xorg-server-21.1.21::gentoo[xorg]
+# required by x11-drivers/xf86-input-libinput-1.5.0::gentoo
+>=x11-libs/libdrm-2.4.129 -intel video_cards_radeon
+
+
+
+## BACKUP
+sys-apps/etckeeper cron
+
+

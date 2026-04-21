@@ -1,0 +1,10 @@
+dev-util/spirv-tools ~amd64
+gui-apps/noctalia-shell ~amd64
+gui-apps/noctalia-qs ~amd64
+
+# SCREENSHARING
+gui-libs/xdg-desktop-portal-hyprland 
+dev-qt/qtbase
+dev-qt/qtwayland
+dev-qt/qtdeclarative
+dev-qt/qtshadertools

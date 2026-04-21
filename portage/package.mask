@@ -1,0 +1,6 @@
+>=dev-lang/zig-0.15
+
+
+# BT - Handsfree bug fix
+>media-video/wireplumber-0.5.12
+>media-video/libwireplumber-0.5.12
